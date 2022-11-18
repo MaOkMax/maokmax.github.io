@@ -213,3 +213,7 @@ background-color: var(--secundario);
     cursor: pointer;
     background-color: var(--secundarioOscuro);
 }
+.formulario__campo--seleccion{
+    background-color: var(--primario);
+    font-size: 2rem;
+}
